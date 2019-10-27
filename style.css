@@ -1,0 +1,18 @@
+/* line 1, /Users/user/Desktop/yurupotto/style.scss */
+* {
+  padding: 0;
+  margin: 0;
+  font-family: toppan-bunkyu-gothic-pr6n, serif;
+  font-style: normal;
+  font-weight: 400 600; }
+
+/* line 9, /Users/user/Desktop/yurupotto/style.scss */
+body {
+  background-color: #d2e4bc;
+  box-sizing: border-box; }
+
+/* line 14, /Users/user/Desktop/yurupotto/style.scss */
+.header {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
